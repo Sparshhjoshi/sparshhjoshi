@@ -4,7 +4,7 @@
 ---
 
 ### 💬 About Me  
-I'm an undergraduate **Computer Science student at VIT Bhopal**, blending creativity and technology to build impactful projects.  
+I'm a Pre-Final year **Computer Science student at VIT Bhopal**, blending creativity and technology to build impactful projects.  
 I love creating **AI-driven web apps**, **Flask & Java-based systems**, and editing **influencer and brand videos** that tell compelling stories.  
 
 - 🌱 Currently exploring **Next.js**, **Tailwind CSS**, and **AI integrations**  
