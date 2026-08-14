@@ -29,26 +29,39 @@ I love creating **AI-driven web apps**, **Flask & Java-based systems**, and edit
 ---
 
 ## 🛠️ Tech Stack
+<p align="center"><i>Click a category to expand ↓</i></p>
 
+<details open>
+<summary><b>🧠 Languages & Frameworks</b></summary>
+<br>
 <div align="center">
-
-**Languages & Frameworks**
-<br>
 <img src="https://skillicons.dev/icons?i=py,java,js,html,css,php&theme=dark" height="50"/>
-
-**Web & AI**
-<br>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flask,spring,tensorflow&theme=dark" height="50"/>
-
-**Data & Cloud**
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,azure,aws,jupyter,matlab,arduino&theme=dark" height="50"/>
-
-**Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,notion&theme=dark" height="50"/>
-
 </div>
+</details>
+
+<details>
+<summary><b>🌐 Web & AI</b></summary>
+<br>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flask,spring,tensorflow&theme=dark" height="50"/>
+</div>
+</details>
+
+<details>
+<summary><b>☁️ Data & Cloud</b></summary>
+<br>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,azure,aws,jupyter,matlab,arduino&theme=dark" height="50"/>
+</div>
+</details>
+
+<details>
+<summary><b>🧰 Tools</b></summary>
+<br>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,notion&theme=dark" height="50"/>
+</div>
+</details>
 
 ---
 
@@ -66,6 +79,12 @@ I love creating **AI-driven web apps**, **Flask & Java-based systems**, and edit
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sparshhjoshi&theme=redical&hide_border=true" alt="Contribution Graph" width="100%"/>
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sparshhjoshi/Sparshhjoshi/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+</div>
+
+<p align="center"><i>⚠️ Snake animation needs a one-time 2-minute setup — see notes below the README.</i></p>
 
 ---
 
