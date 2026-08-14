@@ -84,7 +84,7 @@ I love creating **AI-driven web apps**, **Flask & Java-based systems**, and edit
   <img src="https://raw.githubusercontent.com/Sparshhjoshi/Sparshhjoshi/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </div>
 
-<p align="center"><i>⚠️ Snake animation needs a one-time 2-minute setup — see notes below the README.</i></p>
+
 
 ---
 
