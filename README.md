@@ -88,14 +88,6 @@ I love creating **AI-driven web apps**, **Flask & Java-based systems**, and edit
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sparshhjoshi&theme=radical&no-frame=true&row=1&column=7" alt="trophies"/>
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
